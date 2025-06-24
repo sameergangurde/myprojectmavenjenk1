@@ -73,7 +73,7 @@
           <artifactId>tomcat7-maven-plugin</artifactId>
           <version>2.2</version>
           <configuration>
-            <url>http://13.218.200.153:8080/manager/text</url>
+            <url>http://3.110.44.211:8080/manager/helloproject</url>
             <server>tomcatserver</server>
             <path>/carwebapp</path>
             <username>admin</username>
